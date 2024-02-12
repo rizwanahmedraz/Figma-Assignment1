@@ -1,0 +1,411 @@
+.navbar {
+    background-color: #fff;
+}
+
+.theme-btn {
+    border: none;
+    background-color: #75BF7A;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.nav-item {
+    color: #000;
+    font-weight: 500;
+}
+
+.navbar-nav {
+    text-align: center;
+}
+
+.slide {
+    display: flex;
+    justify-content: center;
+}
+
+.slide-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+.slide-content>div>h1 {
+    font-size: 60px;
+    font-weight: 800;
+    line-height: 65.91px;
+    color: #000;
+}
+
+.slide-content>div>span {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #9E9DA2;
+}
+
+.store-icons {
+    margin-top: 40px;
+}
+
+.slide>img {
+    width: 70%;
+}
+
+.bottom-content {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 20px;
+    background-color: #75BF7A;
+    border-radius: 10px;
+}
+
+.bottom-text>p {
+    /* width: 246px; */
+    height: 56px;
+    top: 952px;
+    left: 152px;
+    font-family: Gilroy;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+input {
+    width: 499px;
+    height: 67px;
+    top: 947px;
+    left: 520px;
+    border-radius: 4.39px;
+}
+
+.btn-A {
+    background-color: #000;
+    color: #fff;
+    width: 260px;
+    height: 67px;
+    top: 947px;
+    left: 1030px;
+    border-radius: 4.39px;
+}
+
+.btom-2-txt {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    margin-top: 80px;
+    /* text-align: center; */
+}
+
+.btom-2-txt>h1 {
+    color: #000;
+    font-family: Gilroy;
+    font-size: 46px;
+    font-weight: 800;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+
+.btom-2-txt>p {
+    font-family: Gilroy;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #9E9DA2;
+}
+
+.btom-2-txt>h1>span {
+    color: #75BF7A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* height: 100vh; */
+}
+
+.left-cards,
+.right-cards {
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    width: 290px;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+}
+
+.card>img {
+    width: 100px;
+}
+
+.card>small {
+    height: 91px;
+    top: 1578px;
+    left: 190px;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #9E9DA2;
+
+
+}
+
+.center-image {
+    background-color: #75BF7A;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    border-radius: 100%;
+}
+
+.center-image img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+}
+
+.tere {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.tere>h1>span {
+    color: #75BF7A;
+}
+
+.line1 {
+    width: 1060px;
+    height: 304px;
+    top: 2249px;
+    left: 145px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.line1img {
+    display: flex;
+}
+
+.linetext>h1 {
+    width: 101px;
+    height: 40px;
+    top: 2322px;
+    left: 183px;
+    color: #75BF7A;
+    font-family: Gilroy;
+    font-size: 93px;
+    font-weight: 600;
+    line-height: 145px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.linetext>h2 {
+    width: 218px;
+    height: 65px;
+    top: 2344px;
+    left: 248px;
+    font-family: Gilroy;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: right;
+}
+
+.line2 {
+    background-color: #fff;
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+}
+
+.line2 {
+    width: 1060px;
+    height: 304px;
+    top: 2249px;
+    left: 145px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.line2img {
+    display: flex;
+}
+
+.line2text>h1 {
+    width: 101px;
+    height: 40px;
+    top: 2322px;
+    left: 183px;
+    color: #75BF7A;
+    font-family: Gilroy;
+    font-size: 93px;
+    font-weight: 600;
+    line-height: 145px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.line2text>h2 {
+    width: 218px;
+    height: 65px;
+    top: 2344px;
+    left: 248px;
+    font-family: Gilroy;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: right;
+}
+
+footer {
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    border-top: 1px solid gray;
+}
+
+.footermain {
+    width: 100%;
+    height: 340px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 1px 0px 5px 0px gray;
+}
+
+.footerlogo {
+    width: 150px;
+    padding-right: 20px;
+}
+
+
+.ft-p-1 {
+    font-family: "Gilroys-bold";
+    font-size: 30px;
+    /* padding: 8px 0px; */
+}
+
+.ft-p-2 {
+    font-size: 22px;
+    line-height: 38px;
+    color: rgb(70, 70, 70);
+}
+
+.footerlogo {
+    padding: 26px;
+}
+
+.footer-add {
+    padding: 26px;
+}
+
+.ft-div-3 {
+    padding: 26px;
+}
+
+.ft-div-4 {
+    padding: 26px;
+}
+
+.ft-div-5 {
+    padding: 26px;
+}
+
+.playstore-btn>img {
+    width: 120px;
+}
+
+.playstore-btn {
+    width: 120px;
+    margin-left: 30px;
+}
+
+.applestore-btn>img {
+    width: 120px;
+    margin-left: 10px;
+}
+
+.l-p {
+    text-align: center;
+    color: #529756;
+    font-size: 24px;
+    padding: 20px;
+}
+
+@media only screen and(max-width: 992px) {
+    .navbar {
+        height: auto;
+    }
+
+    .navbar-nav {
+        padding: 10px;
+        text-align: center;
+    }
+
+    .slide>img {
+        width: 100%;
+        height: 400px;
+        object-fit: contain;
+    }
+
+    .slide-content>div>h1 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+}
+
+@media only screen and(max-width: 600px) {
+    .slide-content {
+        padding: 50px 20px;
+        text-align: center;
+    }
+
+    .store-icons>img {
+        width: 100px;
+    }
+
+    .theme-slide {
+        flex-direction: column-reverse;
+    }
+}
+
+@media only screen and(max-width: 400px) {
+    .bottom-content {
+        display: flex;
+        flex-wrap: wrap;
+        /* width: 320px; */
+        height: auto;
+        top: 857px;
+        left: 20px;
+        border-radius: 5px;
+
+    }
+
+    .bottom-text>p {
+        width: 100%;
+    }
+}
